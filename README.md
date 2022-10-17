@@ -1,8 +1,3 @@
-# No longer supported
+# Yenhanced
 
-<div align="center">
-  <img src="src/assets/icons/BetterYTG_red_128.png" />
-</div>
-
-# BetterYTG
-BetterYTG enhances YouTube Gaming Livestream's with more emotes (Twitch, BTTV Emotes), new features, and more.
+Enhances YouTube design and tools for Streaming. Forked from [BetterYTG](https://github.com/sparcut/BetterYTG)  
